@@ -1,7 +1,7 @@
 # README.
 "Eliminating high freelancer fees with Polkadot: A non-custodial marketplace for secure, instant gig settlements via native USDT/USDC."
 # Clone the repository
-git clone https://github.com/[Your-Username]/[App-Name].git
+git clone https://github.com/[PolkaGig]/[PolkaGig].git
 
 # Navigate to contracts
 cd contracts
